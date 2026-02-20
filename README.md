@@ -26,6 +26,6 @@ Phase 2: Active Directory & Identity Provisioning
     Scripting otomatisasi pembuatan user dengan kebijakan Force Password Change pada login pertama untuk menjamin privasi pengguna.
 
 ## 📜 Documentation
-Laporan Hardening lengkap dapat ditemukan di: [Hardening_Report.pdf](./docs/Hardening_Report.pdf)
+Laporan Hardening lengkap dapat ditemukan di: [Hardening_Report.pdf](./docs/Hardening_report)
     
 
