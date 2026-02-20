@@ -24,3 +24,8 @@ Phase 2: Active Directory & Identity Provisioning
     Deployment Active Directory Domain Services (AD DS) menggunakan PowerShell.
     Otomatisasi pembuatan Organizational Units (OU) untuk memisahkan departemen.
     Scripting otomatisasi pembuatan user dengan kebijakan Force Password Change pada login pertama untuk menjamin privasi pengguna.
+
+## 📜 Documentation
+Laporan Hardening lengkap dapat ditemukan di: [Hardening_Report.pdf](./docs/Hardener_Report.pdf)
+    
+
